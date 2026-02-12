@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## NEW Github profile!
+## NEW GitHub profile!
 
 - 🔭 I’m currently working on a Surf Forecast App
 - 🌱 I’m currently learning Computer Science and French!
