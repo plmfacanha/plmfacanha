@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## NEW GitHub PROFILE! Lost all my streak streak :(
+## NEW GitHub profile! Lost all my streak :(
 
 - 🔭 I’m currently working on a Surf Forecast App
 - 🌱 I’m currently learning Computer Science and French!
