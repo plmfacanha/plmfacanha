@@ -3,7 +3,7 @@
 ## NEW GitHub profile!
 
 - 🔭 I’m currently working on a Surf Forecast App
-- 🌱 I’m currently learning Computer Science and French!
+- 🌱 I’m currently learning French!
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything!
