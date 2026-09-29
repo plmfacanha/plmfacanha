@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 👋
 
-My name is Pedro Facanha, a Brazilian-Canadian developer.
+My name is Pedro Facanha, a full-stack web developer.
 
 ### My Projects
 
