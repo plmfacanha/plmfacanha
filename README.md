@@ -2,7 +2,7 @@
 
 My name is Pedro, a computer enthusiast always seeking for new things to learn.
 
-### My Projects
+### Featured Projects (AKA most-fun ones :))
 
 | Project | Description |
 | --- | --- |
