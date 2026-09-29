@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 👋
 
-My name is Pedro Facanha, a computer enthusiast eager to learn as much as I can about web development.
+My name is Pedro, a computer enthusiast always seeking for new things to learn.
 
 ### My Projects
 
