@@ -6,9 +6,9 @@
 | --- | --- |
 | [![Recurly Checkout Badge](https://img.shields.io/badge/recurly--checkout-3D3D3D?style=flat)](https://github.com/plmfacanha/recurly-checkout) | A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing. |
 
-### My Skills
-
 <div align="center">
+
+  ### My Skills
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></td>
@@ -29,8 +29,11 @@
   </table>
 </div>
 
-### Profile Details
 
 <div align="center">
-  ![Profile Details](https://raw.githubusercontent.com/plmfacanha/plmfacanha/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+### Profile Details
+
+![Profile Details](https://raw.githubusercontent.com/plmfacanha/plmfacanha/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
 </div>
