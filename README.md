@@ -30,3 +30,5 @@ My name is Pedro, a computer enthusiast always seeking for new things to learn.
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
   </tr>
 </table>
+
+![Activity Overview](./profile-summary-card-output/activity-overview.svg)
