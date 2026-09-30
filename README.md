@@ -30,17 +30,3 @@ My name is Pedro, a computer enthusiast always seeking for new things to learn.
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
   </tr>
 </table>
-
-### Activity Overview
-
-<p>
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="340" />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" width="340" />
-</p>
-<p>
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="340" />
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="340" />
-</p>
-<p>
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="340" />
-</p>
