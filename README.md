@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 👋
 
-My name is Pedro, a computer enthusiast always seeking for new things to learn.
+My name is Pedro, a computer enthusiast always struggling, always learning, always.
 
 ### Featured Projects (AKA most fun ones 😄)
 
