@@ -6,8 +6,8 @@ My name is Pedro, a computer enthusiast always seeking for new things to learn.
 
 | Project | Description |
 | --- | --- |
-| [![Reddit App Badge](https://img.shields.io/badge/reddit--app-FF4500?style=flat)](https://github.com/plmfacanha/reddit-app) | Reddit-style app with Express, TypeScript, Prisma, and EJS. Posts, subs, comments, voting. |
 | [![Recurly Checkout Badge](https://img.shields.io/badge/recurly--checkout-3D3D3D?style=flat)](https://github.com/plmfacanha/recurly-checkout) | A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing. |
+| [![Reddit App Badge](https://img.shields.io/badge/reddit--app-FF4500?style=flat)](https://github.com/plmfacanha/reddit-app) | Reddit-style app with Express, TypeScript, Prisma, and EJS. Posts, subs, comments, voting. |
 | [![Codeblocks Vite Badge](https://img.shields.io/badge/codeblocks--vite-3178C6?style=flat)](https://github.com/plmfacanha/codeblocks-vite) | React application where a user stores in a Sequelize database how a message is printed in every different programming language. |
 
 ### My Skills
