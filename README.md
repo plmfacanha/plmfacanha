@@ -31,4 +31,16 @@ My name is Pedro, a computer enthusiast always seeking for new things to learn.
   </tr>
 </table>
 
-![Activity Overview](./profile-summary-card-output/activity-overview.svg)
+### Activity Overview
+
+<p>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="340" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" width="340" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="340" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="340" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="340" />
+</p>
