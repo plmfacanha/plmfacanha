@@ -26,3 +26,5 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
   </tr>
 </table>
+
+![Profile Details](https://raw.githubusercontent.com/plmfacanha/plmfacanha/main/profile-summary-card-output/github_dark/0-profile-details.svg)
