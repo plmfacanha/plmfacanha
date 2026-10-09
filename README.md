@@ -1,28 +1,33 @@
-## Welcome to my GitHub 👋
+<div align="center">
 
-### Featured Project (AKA most fun one 😄)
+# Welcome to my GitHub 👋
 
-| Project | Description |
-| --- | --- |
-| [![Recurly Checkout Badge](https://img.shields.io/badge/recurly--checkout-3D3D3D?style=flat)](https://github.com/plmfacanha/recurly-checkout) | A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing. |
+---
 
-### My Skills
+### ⭐ Featured Project <sub>(AKA most fun one 😄)</sub>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></td>
-  </tr>
-  <tr>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
-    <td width="16.66%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
+    <td align="center" width="600">
+      <a href="https://github.com/plmfacanha/recurly-checkout">
+        <img src="https://img.shields.io/badge/recurly--checkout-3D3D3D?style=for-the-badge&logo=github&logoColor=white" alt="Recurly Checkout" />
+      </a>
+      <br /><br />
+      A simple <b>Node.js</b> and <b>TypeScript</b> application demonstrating how to integrate
+      <b>Recurly's API</b> for subscription billing.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ My Skills
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, HTML5, CSS3" />
+<br />
+<img src="https://skillicons.dev/icons?i=prisma,mysql,git,c,py,java&theme=dark" alt="Prisma, MySQL, Git, C, Python, Java" />
+
+</div>
