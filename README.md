@@ -2,9 +2,7 @@
 
 # Welcome! 👋
 
-<details open>
-<summary><b>⭐ Featured Project (AKA most fun one 😄)</b></summary>
-<br />
+## ⭐ Featured Project (AKA most fun one 😄)
 
 <table>
   <tr>
@@ -20,18 +18,10 @@
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
-</details>
-
-<br />
-
-<details open>
-<summary><b>🛠️ My Skills</b></summary>
-<br />
+## 🛠️ My Skills
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, HTML5, CSS3" />
 <br />
 <img src="https://skillicons.dev/icons?i=prisma,mysql,git,c,py,java&theme=dark" alt="Prisma, MySQL, Git, C, Python, Java" />
-
-</details>
 
 </div>
