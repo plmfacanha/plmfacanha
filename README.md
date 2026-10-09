@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to my GitHub 👋
+# Welcome! 👋
 
 ## ⭐ Featured Project (AKA most fun one 😄)
 
