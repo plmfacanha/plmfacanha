@@ -19,7 +19,7 @@
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 ### 🛠️ My Skills
-
+---
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, HTML5, CSS3" />
 <br />
 <img src="https://skillicons.dev/icons?i=prisma,mysql,git,c,py,java&theme=dark" alt="Prisma, MySQL, Git, C, Python, Java" />
