@@ -4,7 +4,7 @@
 
 ---
 
-### ⭐ Featured Project <sub>(AKA most fun one 😄)</sub>
+### ⭐ Featured Project (AKA most fun one 😄)
 
 <table>
   <tr>
