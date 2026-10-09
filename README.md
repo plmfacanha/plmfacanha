@@ -1,5 +1,7 @@
 <div align="center">
 
+## Featured Project
+
 <table>
   <tr>
     <th>Project</th>
