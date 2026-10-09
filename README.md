@@ -4,7 +4,7 @@
 
 ---
 
-### ⭐ Featured Project (AKA most fun one 😄)
+## ⭐ Featured Project (AKA most fun one 😄)
 
 <table>
   <tr>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ My Skills
+## 🛠️ My Skills
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, HTML5, CSS3" />
 <br />
