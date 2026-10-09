@@ -2,8 +2,6 @@
 
 # Welcome to my GitHub 👋
 
----
-
 ## ⭐ Featured Project (AKA most fun one 😄)
 
 <table>
@@ -19,8 +17,6 @@
 
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-
----
 
 ## 🛠️ My Skills
 
