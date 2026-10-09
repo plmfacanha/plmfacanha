@@ -21,10 +21,12 @@
 
 </details>
 
-## 🛠️ My Skills
+<details open>
+<summary><h2>🛠️ My Skills</h2></summary>
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, HTML5, CSS3" />
 <br />
 <img src="https://skillicons.dev/icons?i=prisma,mysql,git,c,py,java&theme=dark" alt="Prisma, MySQL, Git, C, Python, Java" />
 
 </div>
+</details>
