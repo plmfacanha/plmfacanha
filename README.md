@@ -8,7 +8,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/plmfacanha/recurly-checkout"><img src="https://img.shields.io/badge/recurly--checkout-3D3D3D?style=flat" alt="Recurly Checkout Badge" /></a></td>
+    <td><a href="https://github.com/plmfacanha/recurly-checkout"><code>recurly-checkout</code></a></td>
     <td>A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing.</td>
   </tr>
 </table>
