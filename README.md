@@ -2,16 +2,11 @@
 
 ## Featured Project
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td align="left"><a href="https://github.com/plmfacanha/recurly-checkout"><code>recurly-checkout</code></a></td>
-    <td>A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing.</td>
-  </tr>
-</table>
+<a href="https://github.com/plmfacanha/recurly-checkout"><b>recurly-checkout</b></a>
+<br />
+A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing.
+
+<br />
 
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
