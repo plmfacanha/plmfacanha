@@ -8,7 +8,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td align="left" width="230"><a href="https://github.com/plmfacanha/recurly-checkout"><b>recurly&#8209;checkout</b></a></td>
+    <td align="center" width="230"><a href="https://github.com/plmfacanha/recurly-checkout"><b>recurly&#8209;checkout</b></a></td>
     <td align="left">A simple Node.js and TypeScript application demonstrating how to integrate Recurly's API for subscription billing.</td>
   </tr>
 </table>
